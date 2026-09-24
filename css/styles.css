@@ -172,8 +172,7 @@ textarea {
   display: grid;
 
   /* STEP 8: Define the columns for the grid with grid-template-columns - use a space-separated list of widths */
-  /* grid-template-columns: 1fr 2fr 1fr 1fr; */
-  /* Commenting out the above so we can use media queries for Lab */
+
 
   /* STEP 9: Define the rows for the grid with grid-template-rows - use a space-separated list of widths or auto */
   grid-template-rows: auto;
